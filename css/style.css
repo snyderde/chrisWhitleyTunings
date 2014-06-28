@@ -1,0 +1,18 @@
+
+
+img {
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+#about {
+	color: red;
+}
+
+#about a{
+	color: red;
+}
+
+/*http://corsair.cs.iupui.edu:21151/chrisWhitleyTunings/index.html*/
